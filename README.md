@@ -1,6 +1,6 @@
 # Tinder-bot
 
-Tinder-bot is a bot that logins into your Tinder account and start autoliking people, handling any popup on his way
+Tinder-bot is a bot that logins into your Tinder account and start 'autoliking' people, handling any popup on its way
 
 ## Installation
 
